@@ -18,5 +18,6 @@ This simulator does not have teams hard-coded, so you can simulate NBA, NCAA or 
 
 # What teams am I rooting for?
 
-NCAA: Arizona State Sun Devils (don't have a choice here), but I like Michigan and Michigan State too.
-NBA: LA Lakers until Lonzo leaves
+**NCAA**: Arizona State Sun Devils (don't have a choice here), but I like Michigan and Michigan State too.
+
+**NBA**: LA Lakers until Lonzo leaves
